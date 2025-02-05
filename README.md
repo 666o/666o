@@ -2,8 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Hi+i+am+EviL++a+16+y%2Fo+py+developer" alt="Typing SVG" /></a>
 
+• Discord - [EviL](https://discord.com/users/1137697138575417428)
 
-
+• Instagram - [Yash](https://instagram.com/asfyash)
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
     📖 Student | 🐍 Intermediate Python Developer
