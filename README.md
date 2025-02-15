@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/701582534449823834)](https://discord.com/users/701582534449823834)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Hi+I+Am+EviL+A+16+y%2Fo+Py+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Hi+I+Am+EviL+A+Py+Developer" alt="Typing SVG" /></a>
 
 
 • Discord - [EviL](https://discord.com/users/701582534449823834)
