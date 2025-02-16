@@ -1,7 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/701582534449823834)](https://discord.com/users/701582534449823834)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Hi+I+Am+EviL+A+Py+Developer" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F725&width=435&lines=Hi+I+Am+EviL+A+16y%2Fo+Developer)](https://git.io/typing-svg)
 
 • Discord - [EviL](https://discord.com/users/701582534449823834)
 
@@ -22,13 +21,14 @@ class EviL:
     def __init__(self):
         self.name = "EviL"
         self.location = "New Delhi, India"
+        self.age = "16"
         self.work = "Student/Developer"
         self.system = "Windows 11, x64"
 
     def socials(self):
-        self.discord = "53u3"
+        self.discord = "fqci"
         self.telegram = "milfsexual"
-        self.instgram = "asfyash"
+        self.instgram = "53u3e"
 
 
 if __name__ == "__main__":
